@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@gmail.com",
+      "firstname": "Rian",
+      "lastname": "Perera",
+      "organization": "Department",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "email": "test@gmail.com",
+      "firstname": "Kamal",
+      "lastname": "Sharapova",
+      "organization": "Department",
+      "role": "Admin"
+    },
+    {
+      "id": "3",
+      "email": "test@gmail.com",
+      "firstname": "Nimal",
+      "lastname": "Bradson",
+      "organization": "Branch",
+      "role": "Recruiter"
+    },
+    {
+      "id": "4",
+      "email": "test@gmail.com",
+      "firstname": "Dinesh",
+      "lastname": "Bond",
+      "organization": "Branch",
+      "role": "Editor"
+    },
+    {
+      "id": "5",
+      "email": "test@gmail.com",
+      "firstname": "Ajith",
+      "lastname": "Bond",
+      "organization": "Company",
+      "role": "User"
+    },
+    {
+      "id": "6",
+      "email": "test@gmail.com",
+      "firstname": "Kiran",
+      "lastname": "Bond",
+      "organization": "Company",
+      "role": "Editor"
+    },
+    {
+      "id": "7",
+      "email": "test@gmail.com",
+      "firstname": "Nimesh",
+      "lastname": "Bond",
+      "organization": "Department",
+      "role": "Admin"
+    },
+    {
+      "id": "8",
+      "email": "test@gmail.com",
+      "firstname": "Kusum",
+      "lastname": "Bond",
+      "organization": "Company",
+      "role": "Editor"
+    },
+    {
+      "id": "9",
+      "email": "test@gmail.com",
+      "firstname": "Namal",
+      "lastname": "Bond",
+      "organization": "BYOx Fed",
+      "role": "Admin"
+    },
+    {
+      "id": "10",
+      "email": "test@gmail.com",
+      "firstname": "James",
+      "lastname": "Bond",
+      "organization": "Company",
+      "role": "Admin"
+    },
+    {
+      "id": "ffd50b85-a4da-4cb2-abae-dd1057536ea6",
+      "email": "kushani@gmail.com",
+      "firstname": "Ra",
+      "lastname": "Dannis",
+      "organization": "Company",
+      "role": "Adimn"
+    },
+    {
+      "id": "354dace5-4613-44e5-8fa0-e98026c792a6",
+      "email": "kushani@gmail.com",
+      "firstname": "Rang",
+      "lastname": "Vick",
+      "organization": "Branch",
+      "role": "Recruiter"
+    },
+    {
+      "id": "fb7fbbe3-9e74-4e34-8146-2bd44f7e5c7d",
+      "email": "Rangana@g.com",
+      "firstname": "Rang",
+      "lastname": "geg",
+      "organization": "Branch",
+      "role": "Admin"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "1",
+      "name": "Virtusa",
+      "parent": "Microsoft",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "HCL",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "NYL",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Disabled"
+    },
+    {
+      "id": "4",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Apple",
+      "parent": "Vodafone",
+      "type": "BYOx Fed",
+      "status": "Active"
+    },
+    {
+      "id": "5",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Microsoft",
+      "parent": "Vodafone",
+      "type": "Branch",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Organization 2",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "7",
+      "name": "Organization 3",
+      "parent": "Microsoft",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Organization 4",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Organization 5",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "10",
+      "img": "https://st2.depositphotos.com/2498595/5613/v/450/depositphotos_56137365-stock-illustration-hierarchy-icon-white-on-the.jpg",
+      "name": "Organization 6",
+      "parent": "Vodafone",
+      "type": "Company",
+      "status": "Active"
+    },
+    {
+      "id": "11",
+      "name": "Organization 7",
+      "parent": "HCL",
+      "type": "Company",
+      "status": "Disabled"
+    },
+    {
+      "id": "caf2b4c1-6c6e-43af-bac3-a563c2e7dd01",
+      "name": "CodeGen",
+      "parent": "Microsoft",
+      "type": "Branch",
+      "status": "Disabled"
+    },
+    {
+      "id": "98af743c-69ba-4f4a-b309-81bc3272045d",
+      "name": "IBM",
+      "parent": "Apple",
+      "type": "Department",
+      "status": "Active"
+    }
+  ]
+}

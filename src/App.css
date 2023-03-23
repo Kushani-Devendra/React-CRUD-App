@@ -1,0 +1,124 @@
+/* Navigation Bar*/
+.navbar {
+  background: rgb(255, 255, 255);
+  min-height: 6em;
+  font-weight: 500;
+  color: rgb(57, 57, 57);
+}
+
+.nav-link {
+  margin-right: 3em;
+}
+
+.nav-link:hover {
+  text-underline-position: under;
+  text-decoration: underline;
+  text-decoration-color: rgb(246, 147, 8);
+  text-decoration-thickness: 4px;
+}
+
+.profile-details {
+  display: flex;
+  align-items: center;
+}
+
+.profile-img {
+  width: 50px;
+  margin-left: 20px;
+}
+
+/* Main Container */
+main {
+  background-color: rgb(240, 240, 240);
+  padding-top: 4em;
+  padding-bottom: 7em;
+}
+
+/* Overview */
+.welcome-card {
+  padding: 2em;
+  border-style: none;
+}
+
+.overview {
+  margin-top: 2em;
+  justify-content: space-between;
+}
+
+.list-group-title {
+  margin-bottom: 2em;
+}
+
+/* .list-group {
+  background: #fff;
+} */
+
+.list-group-item {
+  display: flex;
+  flex: start;
+  align-items: center;
+}
+
+.avatar {
+  width: 100%;
+  max-width: 3.2em;
+  min-width: 2.9em;
+}
+
+/* .user-details {
+   margin-left: 1em; 
+} */
+
+.list-item-name {
+  font-weight: 600;
+}
+
+.btn-view {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: rgb(237, 75, 0);
+}
+
+.btn-view-icon {
+  margin-right: 0.6em;
+}
+
+/* Organization & Users */
+.tools {
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+.search-bar {
+  height: 3em;
+  max-width: 30em;
+  min-width: 20em;
+}
+
+.btn-create {
+  float: right;
+  height: 2.7em;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  border-radius: 5px;
+}
+
+.table {
+  overflow-x: scroll;
+}
+
+.rows {
+  /* margin-bottom: 2em; */
+  background: #fff;
+}
+
+/* Footer */
+footer {
+  /* left: 0;
+  bottom: 0; */
+  /* width: 100%; */
+  background: rgb(38, 38, 38);
+  color: #fff;
+}
